@@ -1,12 +1,12 @@
 {
   "mockedWorkflows": [
     {
-      "mockFilePath": "Mocks\\DemandePret_mock.xaml",
-      "sourceWorkflowPath": "DemandePret.xaml"
+      "mockFilePath": "Mocks\\Pret\\DemandePret_mock.xaml",
+      "sourceWorkflowPath": "Pret\\DemandePret.xaml"
     },
     {
-      "mockFilePath": "Mocks\\DemandePret_mock_1.xaml",
-      "sourceWorkflowPath": "DemandePret.xaml"
+      "mockFilePath": "Mocks\\Pret\\DemandePret_mock_1.xaml",
+      "sourceWorkflowPath": "Pret\\DemandePret.xaml"
     }
   ]
 }

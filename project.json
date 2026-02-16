@@ -49,7 +49,7 @@
         "testCaseId": "7bfc85d3-99b2-46b0-9905-c1ea56ca5f20",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase_Authentification.xaml"
+        "fileName": "Commun\\TestCase_Authentification.xaml"
       },
       {
         "editingStatus": "InProgress",
@@ -57,7 +57,7 @@
         "dataVariationFilePath": ".variations\\Test_UiBank_Feuil1.json",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase_DemandePret.xaml"
+        "fileName": "Pret\\TestCase_DemandePret.xaml"
       }
     ],
     "saveToCloud": false
