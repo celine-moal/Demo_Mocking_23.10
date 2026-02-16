@@ -1,0 +1,1 @@
+[{"email":"a@uibank.com","amount":"10000","term":"10","income":"50000","age":"30","result":"Congrats!"},{"email":"b@uibank.com","amount":"10000","term":"10","income":"50000","age":"17","result":"Sorry, at this time you have not been approved for a loan."},{"email":"c@uibank.com","amount":"10000","term":"5","income":"20000","age":"20","result":"Erreur"}]
