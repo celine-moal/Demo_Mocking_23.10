@@ -46,36 +46,20 @@
     "fileInfoCollection": [
       {
         "editingStatus": "InProgress",
+        "testCaseId": "7bfc85d3-99b2-46b0-9905-c1ea56ca5f20",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_Authentification.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
         "testCaseId": "e81fcefe-e6b6-4b4a-8780-56c52028d571",
         "dataVariationFilePath": ".variations\\Test_UiBank_Feuil1.json",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "defe17e8-4d84-439f-9c9a-756ce989e9fc",
-        "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase1.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "36903f55-86a9-412e-96b0-0070811c2a2e",
-        "dataVariationFilePath": ".variations\\Test_UiBank_Feuil1_1.json",
-        "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase2.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "044206b9-289c-47e5-924f-de7f68d7953a",
-        "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase3.xaml"
+        "fileName": "TestCase_DemandePret.xaml"
       }
     ],
-    "modernBehavior": true,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
